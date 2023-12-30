@@ -72,8 +72,9 @@ body {
     bottom: 40px;
     right: 0; 
     background-color:#D66429 ;
-    
+
 }
+
 
 .cb-img{
     border-radius: 60%;
@@ -178,7 +179,6 @@ body {
     opacity: 1;
     transform: scale(1);
   }
-  
 
 /* chatbot ends here */
 h1,
@@ -274,7 +274,7 @@ section {
 .block {
     float: left;
     padding: 70px 0;
-    position: relative;
+    position: inherit;
     width: 100%;
 }
 
